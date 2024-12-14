@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    background-color: #1B244A;
+    width: 100%;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+  
+    
+}
+
+H3 {
+    color: #EEEEEE;
+    text-align: center;
+    font-family: "Verdana";
+    font-weight: bold;
+    font-size: 40px;
+
+}
+
+p {
+      color: #F94F6D;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    font-size: 90px;
+    background-color: #000000;
+    text-align: center;
+    margin: 0;
+    width: 150px; 
+    height: 127px; 
+    line-height: 127px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
+  
+  
+.btn {
+  color: #9AABD8;
+  font-size: 18px;
+  margin-top: 20px;
+  text-align: center;
+  font-family: 'Cursed Timer ULiL', sans-serif;
+  line-height: 28px;
+}
